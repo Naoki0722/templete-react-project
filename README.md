@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# React+TypeScript templete
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to use
 
-## Available Scripts
+### clone
 
-In the project directory, you can run:
+```
+git clone git@github.com:Naoki0722/templete-react-project.git
+```
+
+### package install
+
+```
+npm install
+```
+
+## starting method
 
 ### `npm start`
 
@@ -39,8 +49,21 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Naoki Matsuzaki
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://github.com/Naoki0722
+
+## Environment
+
+React:17.0.2
+
+Node:v16.1.0
+
+npm:7.11.2
+
+eslint:8.2.0
+
+prettier:2.5.1
+
